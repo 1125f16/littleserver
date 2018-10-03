@@ -1,0 +1,22 @@
+{
+  "name": "littleserver",
+  "version": "1.0.0",
+  "description": "Demo Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1125f16/littleserver.git"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1125f16/littleserver/issues"
+  },
+  "homepage": "https://github.com/1125f16/littleserver#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
